@@ -75,12 +75,12 @@
 
 ### Вариант 1: Сигнал «Стоп! Перегруз» при высоком риске
 <p align="center">
-  <img src="red_zone_stop.png" width="100%" alt="Красная зона - Стоп перегруз">
+  <img src="red_zone_stop.jpg" width="100%" alt="Красная зона - Стоп перегруз">
 </p>
 
 ### Вариант 2: Предупреждение «Снизить нагрузку» при фиксации просадок
 <p align="center">
-  <img src="yellow_zone_warning.png" width="100%" alt="Желтая зона - Снизить нагрузку">
+  <img src="yellow_zone_warning.jpg" width="100%" alt="Желтая зона - Снизить нагрузку">
 </p>
 
 Основные элементы интерфейса:
